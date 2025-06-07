@@ -1,4 +1,4 @@
-# Image Segmentation with U-Net
+# Medical Image Segmentation with U-Net from Scratch - PyTorch
 
 This project demonstrates a full pipeline for binary image segmentation using a custom-built U-Net model in PyTorch. It includes a manual image annotation tool, dataset preprocessing and augmentation, U-Net model architecture, training with mixed precision, and result visualization.
 
